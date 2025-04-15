@@ -1,0 +1,7 @@
+/lopes-ia
+├── index.html
+├── style.css
+├── main.js
+├── firebase-config.js
+├── netlify.toml (opcional, para redirecionamento)
+
